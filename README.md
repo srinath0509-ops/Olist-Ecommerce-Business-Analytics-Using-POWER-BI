@@ -112,6 +112,13 @@ This project demonstrates the complete workflow of a Data Analyst:
 
 ---
 
+
+# 🔗 Live Interactive Dashboard
+
+Click below to explore the live Power BI dashboard:
+
+https://app.powerbi.com/view?r=eyJrIjoiY2EwM2RkNzgtMzJiNS00NGI0LTg2ZDktMGUyYzc2MzkyNTNkIiwidCI6IjY2ZWZiNDczLTE4ZjgtNDFkOC05N2Q5LTQyYWRiODE4NWVmOCJ9
+
 # 👨‍💻 Author
 
 Kotha Sai Srinath
